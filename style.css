@@ -4,9 +4,9 @@
     width: 50px;
 }
 .img {
-    height: 100px;
-    width: 100px;
-    border-radius: 50px;
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
 }
 div {
     padding: 4px;
@@ -31,7 +31,7 @@ h3 {
 .main {
     color :rgb(11, 80, 80);
     display: flex;
-    background-color:b;
+
     padding: 5px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     
@@ -56,7 +56,7 @@ h3 {
 }
 .Personal{
     margin-top: 20px;
-    background-image: url("src/temp.avif");
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/050/737/026/small_2x/abstract-background-neon-wave-lines-on-dark-blue-background-modern-glowing-flow-lines-suitable-for-presentation-backgrounds-invitations-covers-headers-and-footers-vector.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color:whitesmoke;
@@ -73,7 +73,7 @@ h3 {
     border-radius: 10px;
  
     color:rgb(0, 0, 0);
-    text-decoration-line: underline;
+    /* text-decoration-line: underline; */
     font-weight: bolder;
 }
 .con p{
